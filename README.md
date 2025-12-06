@@ -26,7 +26,7 @@ Para quien no lo conozca, **Adobe Campaign**  es una herramienta de gestión de 
 
 Si analizamos **Adobe Campaign** bajo la teoría de Manovich, dejaremos de verlo como una herramienta de automatización de envío de correos y vamos a pasar a verla como un motor de **hibridación**. Básicamente, es un lugar donde el _marketing tradicional_ se encuentra con la lógica informática para crear algo nuevo y distinto. Vamos a ello.
 
-1. El ordenador como "*casa*" de los medios
+**1. El ordenador como "*casa*" de los medios**
 
 Dice Manovich: *"Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados y nuevos, es natural esperar que empezasen a generar híbridos".*
 
@@ -38,7 +38,7 @@ Al juntar estos elementos que anteriormente estaban separados (la base de datos 
 > Imagen de un flujo sencilííííisimo de Adobe Campaign. Detrás de cada
 > circulito (que se llama actividad) hay una consulta a la bbdd
 
-2. La magia de los algoritmos 
+**2. La magia de los algoritmos** 
 
 Manovich también nos dice: *"Una técnica independiente del medio es un conjunto de algoritmos que realizan una tarea conceptualmente similar, pero que funcionan con estructuras de datos diferentes".*
 
@@ -47,7 +47,7 @@ La pregunta que nos podemos hacer al ver el funcionamiento de Adobe Campaign es 
 En Adobe Campaign, usas la misma lógica algorítmica para filtrar una lista de 100.000 clientes que para seleccionar qué imagen se mostrará en el correo (por ejemplo en un test A/B). El software no distingue entre lo que es el arte y lo que son los datos; para él, todo son estructuras manipulables. Y esta es la clave del éxito de Adobe Campaingn (o de su competencia directa Marketing Cloud): La herramienta permite que el marketing sea **masivo y personalizado a la vez**, algo imposible con los medios físicos antiguos.
 
 
-3. La Remezclabilidad 
+**3. La Remezclabilidad** 
 
 Manovich también nos dice: *"Actualmente los diseñadores remezclan no tan solo el contenido de distintos medios, sino también sus técnicas más básicas, métodos de trabajo y vías de representación y de expresión".*
 
