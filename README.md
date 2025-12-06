@@ -53,14 +53,31 @@ Manovich también nos dice: *"Actualmente los diseñadores remezclan no tan solo
 
 Adobe Campaign no hace un simple _collage_ (es decir, poner una foto al lado de un texto en un email), sino que realiza una **remezcla profunda**.
 
-Imaginemos que tenemos que configurar una campaña: el programa (el software) puede decidir en tiempo real qué contenido enviar(distintas versiones de un mismo email), a qué hora, en qué circunstancia y por qué canal (SMS, In-App, Email...), basándose en el comportamiento del usuario. Es aquí cuando se fusionan las técnicas de análisis de datos con las técnicas de comunicación visual. Ya no se remezclamos solo el contenido (la foto y el texto), sino la metodología y el proceso de trabajo: la lógica del  que diseña el flujo se funde con la del que diseña la plantilla.
+Imaginemos que tenemos que configurar una campaña: el programa (el software) puede decidir en tiempo real qué contenido enviar(distintas versiones de un mismo email), a qué hora, en qué circunstancia y por qué canal (SMS, In-App, Email...), basándose en el comportamiento del usuario. Es aquí cuando se fusionan las técnicas de análisis de datos con las técnicas de comunicación visual. Ya no remezclamos solo el contenido (la foto y el texto), sino la metodología y el proceso de trabajo: la lógica del  que diseña el flujo se funde con la del que diseña la plantilla.
 
+![Imagen conceptual generada por IA de la remezcla que realiza Adobe Campaign](https://i.postimg.cc/dQXJxqhm/2ea429a5-3ad5-443b-b34e-28736237c31b.png)
 
-Conclusión: Una nueva especie
+> Imagen conceptual generada por IA de la remezcla que realiza Adobe
+> Campaign
+
+**La estrategia de hibridación**
+
+Para Manovich, el software no solo gestiona datos nuevos, sino que cambia la lógica misma de cómo se construye la imagen del mundo. 
+
+**1. Usa nuevos datos (y transforma los viejos en variables)**  La base  de la hibridación es que el software traduce todos los medios anteriores (fotos, cine, texto) y los nuevos (3D, GPS) a estructuras de datos y algoritmos. El ordenador (y en este caso Adobe Campaign) nos permite representarlo como un conjunto de variables que pueden cambiar continuamente.
+Adobe Campaign convierte los medios en datos numéricos. De una forma visual, todo son flujos de datos que pueden variar infinitamente.
+
+**2. Es una nueva forma de representar el mundo**  Al trabajar sobre estos datos , la hibridación genera una una nueva visión de la realidad. 
+Al igual que el ejemplo que pone Manovich con Google Earth. Adobe Campaign no imita la visión humana sino que crea una experiencia visual distinta a través de la representación gráfica de los flujos y el diseño de las plantillas.
+
+Por lo tanto la estrategia de hibridación de Adobe Campaign es dual, tanto muestra una nueva forma de representar el mundo y una nuevos datos.
+
+**Conclusión: Una nueva especie**
 
 El resultado final que puedes obtener con Adobe Campaign —el mensaje personalizado que te llega al móvil justo cuando visitas una determinada sección de una web— es lo que Manovich llamaría una **"nueva especie de medios"**.
 
 Ya no estamos ante una carta tradicional digitalizada (que sería remediación), sino una experiencia híbrida que reacciona gracias a los datos. Es el resultado de dejar que el software tome el mando ;-).
+
 
 
 ## Re-descubriendo la hibridacion: Detroit: Become Human
