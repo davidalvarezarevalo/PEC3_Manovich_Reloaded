@@ -78,8 +78,6 @@ El resultado final que puedes obtener con Adobe Campaign —el mensaje personali
 
 Ya no estamos ante una carta tradicional digitalizada (que sería remediación), sino una experiencia híbrida que reacciona gracias a los datos. Es el resultado de dejar que el software tome el mando ;-).
 
-[![Previsualización del video de YouTube](https://img.youtube.com/vi/VLVINcr9u5Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=VLVINcr9u5Y)
-
 ## Re-descubriendo la hibridación: Detroit: Become Human
 
 El videojuego **Detroit: Become Human** es un ejemplo espectacular de cómo la hibridación, tal como la concibe Lev Manovich, redefine la cultura mediática. Más que ser solo un juego con unos gráficos impresionantes aún hoy (a pesar de que se publicó en mayo de 2018) , se podría decir que es una nueva especie de medios que fusiona el lenguaje del cine y la informática de manera profunda, demostrando que el software está tomando el mando de la estética narrativa.
