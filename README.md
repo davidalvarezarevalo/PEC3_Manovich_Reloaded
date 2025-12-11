@@ -78,6 +78,7 @@ El resultado final que puedes obtener con Adobe Campaign —el mensaje personali
 
 Ya no estamos ante una carta tradicional digitalizada (que sería remediación), sino una experiencia híbrida que reacciona gracias a los datos. Es el resultado de dejar que el software tome el mando ;-).
 
+[![Previsualización del video de YouTube](https://img.youtube.com/vi/VLVINcr9u5Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=VLVINcr9u5Y)
 
 ## Re-descubriendo la hibridación: Detroit: Become Human
 
