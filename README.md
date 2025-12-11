@@ -85,8 +85,7 @@ Ya no estamos ante una carta tradicional digitalizada (que sería remediación),
 El videojuego **Detroit: Become Human** es un ejemplo espectacular de cómo la hibridación, tal como la concibe Lev Manovich, redefine la cultura mediática. Más que ser solo un juego con unos gráficos impresionantes aún hoy (a pesar de que se publicó en mayo de 2018) , se podría decir que es una nueva especie de medios que fusiona el lenguaje del cine y la informática de manera profunda, demostrando que el software está tomando el mando de la estética narrativa.
 
 Para quien lo lo conozca el videojuego podría entrar en el género de aventura gráfica. Donde la característica principal no es la habilidad del jugador con el mando, sino la sucesión de decisiones que se deben de tomar y que afectan tanto al transcurso del juego como a su final. Un personaje principal puede morir y el juego no acaba. Hay diversos finales e itinerarios dependiendo de las decisiones que se van tomando. y las decisiones no son entre blanco y negro, sino todas son grises. Este trabajo no contiene imágenes, sino videos para que podamos entender la hibridación. Son capturas de mis propias partidas :-)
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rrFVQRu5P2Q?si=23gk04ox0k34bwN5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1"></iframe>
-
+[![Previsualización del video de YouTube](https://img.youtube.com/vi/rrFVQRu5P2Q/maxresdefault.jpg)](https://www.youtube.com/live/rrFVQRu5P2Q?si=7oaUZLSp4QbwDBGj)
 > Este fragmento me encanta por lo que reclaman los manifestantes
 
 **1. El Cine se Mudó al Ordenador**
@@ -94,9 +93,7 @@ Para quien lo lo conozca el videojuego podría entrar en el género de aventura 
 El paso del cine al entorno digital implica que el hardware del cine  (cámaras, proyectores) se simula en el software. Esta simulación es la que permite la **hibridación**. La creación de un juego como Detroit Become Human lo convierte en esa "cómoda casa" donde residen los antiguos medios.
 
 Detroit Become Human integra técnicas de la cinematografía (encuadres, movimientos de cámara, iluminación dramática) con los nuevos medios digitales (gráficos 3D, animación). Para que el juego funcione, el concepto de "medio" se ha transformado: el cine en el videojuego es, como dice Manovich, una **"combinación de una estructura de datos y una serie de algoritmos"**. La estructura narrativa es cinematográfica, pero los algoritmos son permiten que esa estructura reaccione a con las decisiones del jugador.
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RCloU7wJO94?si=pg1uwE--54OX22k1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1"></iframe>
-
+[![Previsualización del video de YouTube](https://img.youtube.com/vi/RCloU7wJO94/maxresdefault.jpg)](https://www.youtube.com/watch?v=RCloU7wJO94)
 > ¿Estamos viendo un videojuego o una película?
 
 **2. La Remezclabilidad Profunda de Técnicas**
@@ -108,10 +105,8 @@ La clave no está solo en que el contenido visual parezca una película, eso ya 
 • **Técnicas Cinematográficas:** La gramática visual que guía al jugador (uso de la profundidad de campo, iluminación, primeros planos para dar emotividad).
 
 • **Técnicas de Software:** Los sistemas de decisión (árboles de diálogo, elecciones con consecuencias) y los _Quick Time Events_ (QTE), que convierten la decisión del jugador y la acción en una manipulación de datos en tiempo real. Manovich lo explica perfectamente, aunque el ejemplo que toma es el del Photoshop: *"Es decir, el usuario también entiende que el proceso de definición y edición de los contenidos pasa por la aplicación secuencial de distintas operaciones facilitadas por la aplicación. Cada operación corresponde a un algoritmo, que o bien lleva a cabo determinadas acciones con los datos existentes o bien genera nuevos datos. (El filtro Onda de Photoshop es un ejemplo del primer caso, y el filtro Interpretar Nubes, del segundo."*
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VLVINcr9u5Y?si=3n8qHX-jsw_uMR2J&amp;start=207" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-> Este video es perfecto. Podemos ver la narrativa cinematográfica,
+[![Previsualización del video de YouTube](https://img.youtube.com/vi/VLVINcr9u5Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=VLVINcr9u5Y)
+> Este video es perfecto. Podemos ver a partir del minuto 2:30 la narrativa cinematográfica,
 > junto a los QTE con -en la parte final- el flujo sobre las decisiones
 > que hemos tomado.
 
@@ -131,8 +126,7 @@ Al utilizar esta lógica  y el procesamiento de datos del jugador, el juego gene
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
-* [Detroit: Become Human - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Detroit:_Become_Human) 
-
+* [Detroit: Become Human - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Detroit:_Become_Human)
 
 ----
 
