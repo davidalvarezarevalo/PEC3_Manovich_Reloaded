@@ -1,21 +1,15 @@
 # PEC3: Visionando el futuro con las gafas de Manovich 
 
-### Recurso de aprendizaje de Cultura Digital 
-
-
 Autor:  David Álvarez Arévalo
 
-
-Fecha: 
-
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
-
-
+Fecha: 16/12/2025
 
 ## Planteamiento
 
+Basándome el libro El software toma el mando (Manovich, L., 2013) voy a explicar como la hibridación de los medios utiliza la fusión de diferentes elementos y  diversos procedimientos para generar un nuevo software. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Voy a analizar dos casos: el programa informático Adobe Campaign y el videojuego Detroit: Become Human.
+Para este último caso, ayudaría mucho para entenderlo, si el lector pudiera ver diversos vídeos del videojuego. Estos videos son grabados por mi jugando. Lamentablemente, para incrustarlos en GitHub sólo lo puedo hacer a través de una imagen que lleve el video, ya que por razones de seguridad, no acepta la etiqueta < iframe > que permitiría poder ver el vídeo a la vez que se lee el gesto
 
 
 ## Re-descubriendo la hibridacion: [Adobe Campaign](https://business.adobe.com/es/products/campaign/adobe-campaign.html)
@@ -84,7 +78,7 @@ El videojuego **Detroit: Become Human** es un ejemplo espectacular de cómo la h
 
 Para quien lo lo conozca el videojuego podría entrar en el género de aventura gráfica. Donde la característica principal no es la habilidad del jugador con el mando, sino la sucesión de decisiones que se deben de tomar y que afectan tanto al transcurso del juego como a su final. Un personaje principal puede morir y el juego no acaba. Hay diversos finales e itinerarios dependiendo de las decisiones que se van tomando. y las decisiones no son entre blanco y negro, sino todas son grises. Este trabajo no contiene imágenes, sino videos para que podamos entender la hibridación. Son capturas de mis propias partidas :-)
 [![Previsualización del video de YouTube](https://img.youtube.com/vi/rrFVQRu5P2Q/maxresdefault.jpg)](https://www.youtube.com/live/rrFVQRu5P2Q?si=7oaUZLSp4QbwDBGj)
-> Este fragmento me encanta por lo que reclaman los manifestantes
+> (Video, pincha en la imagen para visualizarlo) Este fragmento me encanta por lo que reclaman los manifestantes
 
 **1. El Cine se Mudó al Ordenador**
 
@@ -92,7 +86,7 @@ El paso del cine al entorno digital implica que el hardware del cine  (cámaras,
 
 Detroit Become Human integra técnicas de la cinematografía (encuadres, movimientos de cámara, iluminación dramática) con los nuevos medios digitales (gráficos 3D, animación). Para que el juego funcione, el concepto de "medio" se ha transformado: el cine en el videojuego es, como dice Manovich, una **"combinación de una estructura de datos y una serie de algoritmos"**. La estructura narrativa es cinematográfica, pero los algoritmos son permiten que esa estructura reaccione a con las decisiones del jugador.
 [![Previsualización del video de YouTube](https://img.youtube.com/vi/RCloU7wJO94/maxresdefault.jpg)](https://www.youtube.com/watch?v=RCloU7wJO94)
-> ¿Estamos viendo un videojuego o una película?
+> (Video, pincha en la imagen para visualizarlo) ¿Estamos viendo un videojuego o una película?
 
 **2. La Remezclabilidad Profunda de Técnicas**
 
@@ -104,7 +98,7 @@ La clave no está solo en que el contenido visual parezca una película, eso ya 
 
 • **Técnicas de Software:** Los sistemas de decisión (árboles de diálogo, elecciones con consecuencias) y los _Quick Time Events_ (QTE), que convierten la decisión del jugador y la acción en una manipulación de datos en tiempo real. Manovich lo explica perfectamente, aunque el ejemplo que toma es el del Photoshop: *"Es decir, el usuario también entiende que el proceso de definición y edición de los contenidos pasa por la aplicación secuencial de distintas operaciones facilitadas por la aplicación. Cada operación corresponde a un algoritmo, que o bien lleva a cabo determinadas acciones con los datos existentes o bien genera nuevos datos. (El filtro Onda de Photoshop es un ejemplo del primer caso, y el filtro Interpretar Nubes, del segundo."*
 [![Previsualización del video de YouTube](https://img.youtube.com/vi/VLVINcr9u5Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=VLVINcr9u5Y)
-> Este video es perfecto. Podemos ver a partir del minuto 2:30 la narrativa cinematográfica,
+> (Video, pincha en la imagen para visualizarlo) Este video es perfecto. Podemos ver a partir del minuto 2:30 la narrativa cinematográfica,
 > junto a los QTE con -en la parte final- el flujo sobre las decisiones
 > que hemos tomado.
 
@@ -123,9 +117,14 @@ Al utilizar esta lógica  y el procesamiento de datos del jugador, el juego gene
 
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
-* [Detroit: Become Human - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Detroit:_Become_Human)
+Manovich, Lev. (2013). El Software toma el mando. Barcelona: Editorial UOC. 
 
+Manovich, Lev (2001). El lenguaje de los nuevos medios. Barcelona: Editorial Paidós.
+
+Detroit: Become Human - Wikipedia, la enciclopedia libre [consulta 10/12/2025] Disponible en:  ([https://es.wikipedia.org/wiki/Detroit:_Become_Human](https://es.wikipedia.org/wiki/Detroit:_Become_Human))
+ 
+MANEL RODERO . ¿Cómo incluir vídeos de YouTube en Markdown? [consulta 09/12/2025] Disponible en: [¿Cómo incluir vídeos de YouTube en Markdown?](https://www.manelrodero.com/blog/como-incluir-videos-de-youtube-en-markdown)
+ 
 ----
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
